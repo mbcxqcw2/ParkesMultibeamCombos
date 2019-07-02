@@ -1,3 +1,4 @@
 This jupyter notebook calculates acceptable beam combinations that a bright single pulse may fall within when detected by the Parkes 13-beam multibeam receiver. 
 
+
 Beam combinations are saved to 'AllowedParkesBeamCombos.txt'.
